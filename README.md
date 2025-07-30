@@ -25,7 +25,7 @@
   
 - ### 🔧 Tools & Platforms
 - **Wireshark**, **Packet Tracer**, **GNS3** (Network simulation and analysis)
-- **MATLAB**: Signal Processing Simulation
+- **MATLAB and Proteus**: Signal Processing Simulation and circuit Simulation 
 - **Git & GitHub**: Version Control and Collaboration
 - **Raspberry Pi & Arduino**: IoT and Prototyping
 
